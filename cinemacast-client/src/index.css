@@ -1,0 +1,27 @@
+
+
+.card {
+  width: 18rem;
+}
+
+a {
+  --bs-link-color-rgb: rgb(255, 121, 22);
+}
+
+.nav-pills {
+  /* --bs-nav-pills-border-radius: var(--bs-border-radius); */
+  --bs-nav-pills-link-active-color: #fff;
+  --bs-nav-pills-link-active-bg: #ff7916;
+}
+
+.list .card:hover {
+  background-color: var(--bs-tertiary-bg);
+  transform: scale(1.025);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 5px 10px;
+}
+
+/* 
+.nav {
+  --bs-nav-link-padding-y: 0.6rem;
+} */
+ 

@@ -1,0 +1,2 @@
+### User
+GET http://localhost:3000/users?username=jamestoddsmith&password=imbad
