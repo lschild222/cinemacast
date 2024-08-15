@@ -24,9 +24,4 @@ function ActorList() {
     </section>
   );
 }
-
-<<<<<<< HEAD
 export default ActorList;
-=======
-export default ActorList;
->>>>>>> 7ee40cc2994cf9c887fc255f5c706dbe6dbdb235
